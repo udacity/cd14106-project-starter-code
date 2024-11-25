@@ -1,0 +1,16 @@
+{
+    "name": "portfolio-homepage",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "less-watch-compile": "^2.1.0",
+        "sass": "^1.79.3"
+    },
+    "devDependencies": {
+        "less": "^4.2.0"
+    }
+}
+
